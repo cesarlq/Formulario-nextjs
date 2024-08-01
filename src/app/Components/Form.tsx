@@ -1,7 +1,7 @@
 "use client";
 import React, { use, useEffect, useState } from "react";
 import { useForm } from "react-hook-form";
-import style from "@/Styles/Form.module.scss";
+import style from "@Styles/Form.module.scss";
 import { AlertColor, Button, CircularProgress, MenuItem, TextField } from "@mui/material";
 import { BillingInfoI } from "@Interfaces/Form";
 import { useAppDispatch, useAppSelector } from '@redux/hooks';
