@@ -1,7 +1,7 @@
 "use client";
 import Image from "next/image";
 import FormBilling from './Components/Form';
-import style from '@Styles/Form.module.scss';
+import style from "../app/Styles/Form.module.scss";
 import { Provider } from 'react-redux';
 import { store } from '@redux/store';
 
