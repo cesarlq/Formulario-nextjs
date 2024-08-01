@@ -37,9 +37,6 @@
       "@services/*": [
         "./src/app/services/*"
       ],
-      "@redux/*": [
-        "./src/app/redux/*"
-      ],
       "@reducers/*": [
         "./src/app/redux/reducers/*"
       ],
