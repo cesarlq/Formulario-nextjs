@@ -1,5 +1,5 @@
 import { PostBilling } from '@redux/thunks/Billing.thunk';
-import { initialStateI } from '@/Interfaces/Form';
+import { initialStateI } from '@Interfaces/Form';
 import { createSlice } from '@reduxjs/toolkit';
 
 

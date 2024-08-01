@@ -1,5 +1,5 @@
 import { configureStore } from '@reduxjs/toolkit';
-import billingReducer from '@/reducers/Billing.reducer';
+import billingReducer from '@reducers/Billing.reducer';
 
 export const store = configureStore({
     middleware: getDefaultMiddleware =>

@@ -1,4 +1,4 @@
-import BillingService from '@/services/BillingService';
+import BillingService from '@services/BillingService';
 import { createAsyncThunk } from "@reduxjs/toolkit";
 import { BillingInfoI } from '@/app/interfaces/Form';
 

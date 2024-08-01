@@ -19,28 +19,28 @@
     ],
     "paths": {
       "@/*": ["./src/*"],
-      "@/Styles/*": [
+      "@Styles/*": [
         "./src/app/Styles/*"
       ],
-      "@/Interfaces/*": [
+      "@Interfaces/*": [
         "./src/app/interfaces/*"
       ],
-      "@/Components/*": [
+      "@Components/*": [
         "./src/app/Components/*"
       ],
-      "@/Hooks/*": [
+      "@Hooks/*": [
         "./src/app/Hooks/*"
       ],
       "@redux/*": [
         "./src/app/redux/*"
       ],
-      "@/services/*": [
+      "@services/*": [
         "./src/app/services/*"
       ],
-      "@/redux/*": [
+      "@redux/*": [
         "./src/app/redux/*"
       ],
-      "@/reducers/*": [
+      "@reducers/*": [
         "./src/app/redux/reducers/*"
       ],
     }
