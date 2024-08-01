@@ -17,28 +17,28 @@
         "name": "next"
       }
     ],
+    "baseUrl": "src",
     "paths": {
-      "@/*": ["./src/*"],
-      "@Styles/*": [
-        "./src/app/Styles/*"
+      "@styles/*": [
+        "app/Styles/*"
       ],
       "@Interfaces/*": [
-        "./src/app/interfaces/*"
+        "app/interfaces/*"
       ],
       "@Components/*": [
-        "./src/app/Components/*"
+        "app/Components/*"
       ],
       "@Hooks/*": [
-        "./src/app/Hooks/*"
+        "app/Hooks/*"
       ],
       "@redux/*": [
-        "./src/app/redux/*"
+        "app/redux/*"
       ],
       "@services/*": [
-        "./src/app/services/*"
+        "app/services/*"
       ],
       "@reducers/*": [
-        "./src/app/redux/reducers/*"
+        "app/redux/reducers/*"
       ],
     }
   },
